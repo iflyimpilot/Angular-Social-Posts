@@ -36,3 +36,4 @@ export class SocialPostsComponent implements OnInit {
 
   ngOnInit() {}
 }
+
